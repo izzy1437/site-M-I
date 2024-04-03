@@ -7,7 +7,9 @@ body
 color: rgb(0, 0, 0);
 font-size: 20pt;
 font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-text-align: center;
+text-align: center; 
+image-orientation: 0deg;
+
 }
 
 h1
@@ -19,4 +21,5 @@ h1
 img{
   width: 500px;
 }
+
 
