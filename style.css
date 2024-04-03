@@ -1,0 +1,22 @@
+@charset "UTF-8";
+
+body
+{
+    background: rgb(255,231,182);
+    background: radial-gradient(circle, rgba(255,231,182,1) 46%, rgba(14,14,56,1) 94%);
+color: rgb(0, 0, 0);
+font-size: 20pt;
+font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+text-align: center;
+}
+
+h1
+{
+  color: write;
+  font-size: 30pt;
+}
+
+img{
+  width: 500px;
+}
+
